@@ -1,4 +1,4 @@
-## 🧩HYEWON🧩
+## 🧩HYEWON
 
 ### Tech Stack
 <p>
