@@ -1,6 +1,6 @@
-## HYEWON
+## 🧩HYEWON🧩
 
-### 🛠 Tech Stack
+### Tech Stack
 <p>
   <!-- Java -->
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
@@ -24,10 +24,10 @@
 
 ---
 
-### 📊 Most Used Languages
+### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EZRANDO&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Contact
+### Contact
 - **Email**: [gpdnjs2578@naver.com](mailto:your.email@example.com)
